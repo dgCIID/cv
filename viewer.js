@@ -4119,7 +4119,7 @@ var defaultOptions = {
     kind: OptionKind.VIEWER + OptionKind.PREFERENCE
   },
   defaultUrl: {
-    value: 'CV-GuevaraDavid.pdf',
+    value: 'GuevaraDavidCV.pdf',
     kind: OptionKind.VIEWER
   },
   defaultZoomValue: {
